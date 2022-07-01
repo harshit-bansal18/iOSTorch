@@ -1,0 +1,22 @@
+{
+  "name": "iOSTorch",
+  "version": "0.1.0",
+  "summary": "A short description of iOSTorch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/harshit-bansal18/iOSTorch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "harshit-bansal18": "harshitb20@iitk.ac.in"
+  },
+  "source": {
+    "git": "https://github.com/harshit-bansal18/iOSTorch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "iOSTorch/Classes/**/*"
+}

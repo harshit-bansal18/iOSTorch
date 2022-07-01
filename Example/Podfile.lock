@@ -1,0 +1,16 @@
+PODS:
+  - iOSTorch (0.1.0)
+
+DEPENDENCIES:
+  - iOSTorch (from `../`)
+
+EXTERNAL SOURCES:
+  iOSTorch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSTorch: 9ce07b0f63da73dbe687f5249fa9cd270c69eb8c
+
+PODFILE CHECKSUM: 85cf3320cb496fd940aefdad00928590f2d76c18
+
+COCOAPODS: 1.11.3
